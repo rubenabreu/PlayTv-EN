@@ -1,0 +1,75 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="Euro Spor" tvg-logo="logos/Eurosport1.tr.png" tvg-name="Euro Spor"  group-title="Spor",Euro Spor
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-1, tvg-id="Euro Spor" tvg-logo="logos/Eurosport2.tr.png" tvg-name="Euro Spor"  group-title="Spor",Euro Spor 2
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+
+#EXTINF:-1, tvg-id="Fashion TV" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV"  group-title="Moda",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Fashion TV 2" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV 2"  group-title="Moda",Fashion TV 2
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+
+#EXTINF:-1, tvg-id="Jasmin TV" tvg-logo="logos/jasmin.jpg" tvg-name="Jasmin TV"  group-title="Muzik",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Playboy" tvg-logo="logos/playboy.jpg" tvg-name="Playboy"  group-title="Adult",Playboy
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Miami Tv" tvg-logo="logos/miami_tv.jpg" tvg-name="Miami Tv"  group-title="Adult",Miami Tv
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+
+#EXTINF:-1, tvg-id="A3 Bikini" tvg-logo="logos/a3bikini.jpg" tvg-name="A3 Bikini"  group-title="Adult",A3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NYK" tvg-logo="logos/nyk.jpg" tvg-name="NYK"  group-title="Adult",NYK 1
+https://cdn1.ibizastream.biz:441/free/Stream1/chunks.m3u8
+
+#EXTINF:-1, tvg-id="NYK" tvg-logo="logos/nyk.jpg" tvg-name="NYK"  group-title="Adult",NYK 2
+https://cdn1.ibizastream.biz:441/free/Stream2/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BSX" tvg-logo="logos/bsx.jpg" tvg-name="BSX"  group-title="Adult",BSX
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Pornstar
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Movie",Adult Movie 1
+http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21235/21235_720p.mp4
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Movie",Adult Movie 2
+http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21261/21261_720p.mp4
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Movie",Adult Movie 3
+http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21338/21338_720p.mp4
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Movie",Adult Movie 3
+http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21651/21651_720p.mp4
+
