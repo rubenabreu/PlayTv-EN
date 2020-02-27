@@ -14,8 +14,11 @@ http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
 #EXTINF:-1, tvg-id="Jasmin TV" tvg-logo="logos/jasmin.jpg" tvg-name="Jasmin TV"  group-title="Music",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Playboy" tvg-logo="logos/playboy.jpg" tvg-name="Playboy"  group-title="Adult",Playboy
+#EXTINF:-1, tvg-id="Visit-x.tv" tvg-logo="logos/visit-x.tv.jpg" tvg-name="Visit-x.tv"  group-title="Adult",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Playboy" tvg-logo="logos/playboy.jpg" tvg-name="Playboy"  group-title="Adult",Playboy
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/527/index.m3u8
 
 #EXTINF:-1, tvg-id="Miami Tv" tvg-logo="logos/miami_tv.jpg" tvg-name="Miami Tv"  group-title="Adult",Miami Tv
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
@@ -28,6 +31,26 @@ https://cdn1.ibizastream.biz:441/free/Stream1/chunks.m3u8
 
 #EXTINF:-1, tvg-id="NYK" tvg-logo="logos/nyk.jpg" tvg-name="NYK"  group-title="Adult",NYK 2
 https://cdn1.ibizastream.biz:441/free/Stream2/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",PRIVE
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/877/index.m3u8
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",SCT
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/876/index.m3u8
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",Passion XXX
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/878/index.m3u8
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",Penthouse TV
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/1073/index.m3u8
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",Pink'o TV
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/874/index.m3u8
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",Private TV
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/243/index.m3u8
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",Redlight HD
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/242/index.m3u8
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",Sexto Senso
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/875/index.m3u8
+#EXTINF:-1, tvg-id="ADULT" tvg-logo="logos/adult.png" tvg-name="ADULT"  group-title="Adult",FrenchLover
+http://78.129.228.178/iptv/QSRRNZ2ALVKTT3/2160/index.m3u8
+
 
 #EXTINF:-1, tvg-id="BSX" tvg-logo="logos/bsx.jpg" tvg-name="BSX"  group-title="Adult",BSX
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
